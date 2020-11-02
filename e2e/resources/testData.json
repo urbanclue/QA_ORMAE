@@ -1,0 +1,12 @@
+{
+  "search": {
+    "baseUrl": "https://www.google.co.in"
+  },
+  "keywords": {
+    "keyword1": "ormae groups",
+    "keyword2": "hello world"
+  },
+  "results": {
+    "result1": "www.helloselenium.com"
+  }
+}
